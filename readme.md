@@ -10,4 +10,5 @@
 3. git add <filename> (or) git add .
 4. git log
 5. git rm --staged <file name>
+6. git checkout <id name>
 
