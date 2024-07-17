@@ -11,5 +11,6 @@
 4. git log
 5. git rm --staged <file name>
 6. git checkout <id name>
-7. git push -u origin http url
+7. git push -u origin main
+
 
