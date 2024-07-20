@@ -12,5 +12,6 @@
 5. git rm --staged <file name>
 6. git checkout <id name>
 7. git push -u origin main
+8. git branch (New branch name)
 
 
